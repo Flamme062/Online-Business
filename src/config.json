@@ -8,8 +8,6 @@
   ],
   "languageList": [
     { "value": "english", "label": "English" },
-    { "value": "german", "label": "Deutsch" },
-    { "value": "mandarin", "label": "普通话" }
   ],
   "social": {
     "facebook": " ",
