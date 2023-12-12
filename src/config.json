@@ -42,20 +42,16 @@
       "subTitle": "Support",
       "links": [
         {
-          "text": "FAQ",
-          "link": "/faq"
+    
         },
         {
-          "text": "Contact Us",
-          "link": "/support#contact"
+  
         },
         {
-          "text": "Shipping & Returns",
-          "link": "/support#returns"
+      
         },
         {
-          "text": "How to use this theme",
-          "link": "/how-to-use"
+    
         }
       ]
     }
@@ -92,29 +88,17 @@
           ]
         },
         {
-          "categoryLabel": "accessories",
-          "submenu": [
-            {
-              "menuLabel": "caps & scarves",
-              "menuLink": "/shop"
-            },
-            {
-              "menuLabel": "bags",
-              "menuLink": "/shop"
+       
             }
           ]
         }
       ]
     },
     {
-      "menuLabel": "journal",
-      "menuLink": "/blog",
-      "category": null
+     
     },
     {
-      "menuLabel": "About",
-      "menuLink": "/about",
-      "category": null
+    
     }
   ],
   "filters": [
