@@ -87,26 +87,26 @@
           ]
         },
         {
-          "categoryLabel": "men",
+          "categoryLabel": " ",
           "submenu": [
             {
-              "menuLabel": "All clothing",
+              "menuLabel": " ",
               "menuLink": "/shop"
             },
             {
-              "menuLabel": "sweatshirts & hoodies",
+              "menuLabel": " ",
               "menuLink": "/shop"
             },
             {
-              "menuLabel": "jackets",
+              "menuLabel": " ",
               "menuLink": "/shop"
             },
             {
-              "menuLabel": "trousers",
+              "menuLabel": " ",
               "menuLink": "/shop"
             },
             {
-              "menuLabel": "pants",
+              "menuLabel": " ",
               "menuLink": "/shop"
             }
           ]
