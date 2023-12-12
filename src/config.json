@@ -10,10 +10,10 @@
     { "value": "english", "label": "English" },
   ],
   "social": {
-    "facebook": " ",
-    "instagram": " ",
-    "twitter": " ",
-    "youtube": " "
+    " ": " ",
+    " ": " ",
+    " ": " ",
+    " ": " "
   },
   "paymentOptions": {
     "visa": true,
@@ -26,11 +26,11 @@
       "links": [
         {
           "text": " ",
-          "link": "/about"
+          "link": " "
         },
         {
           "text": " ",
-          "link": "/blog"
+          "link": " "
         },
         {
           "text": " ",
@@ -121,34 +121,21 @@
     {
       "category": "colour",
       "items": [
-        { "name": "Black", "value": true },
-        { "name": "Green", "value": false },
-        { "name": "Dark Blue", "value": false },
-        { "name": "Blue", "value": true },
-        { "name": "Grey", "value": false },
-        { "name": "Red", "value": false }
+        { "name": " ", "value": true },
+        { "name": " ", "value": false },
+        { "name": " ", "value": false },
+        { "name": " ", "value": true },
+        { "name": " ", "value": false },
+        { "name": " ", "value": false }
       ]
     },
 
     {
-      "category": "size",
-      "items": [
-        { "name": "XXS", "value": false },
-        { "name": "XS", "value": false },
-        { "name": "S", "value": false },
-        { "name": "M", "value": false },
-        { "name": "L", "value": false },
-        { "name": "XL", "value": false },
-        { "name": "XXL", "value": false },
-        { "name": "Onesize", "value": false }
+  
       ]
     },
     {
-      "category": "gender",
-      "items": [
-        { "name": "Male", "value": false },
-        { "name": "Female", "value": false },
-        { "name": "Unisex", "value": false }
+ 
       ]
     }
   ]
