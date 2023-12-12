@@ -71,19 +71,19 @@
           "categoryLabel": "Technology",
           "submenu": [
             {
-              "menuLabel": "All clothing",
+              "menuLabel": "High Quality",
               "menuLink": "/shop"
             },
             {
-              "menuLabel": "sweatshirts & hoodies",
+              "menuLabel": "Keayboards",
               "menuLink": "/shop"
             },
             {
-              "menuLabel": "jackets",
+              "menuLabel": "Mouses",
               "menuLink": "/shop"
             },
             {
-              "menuLabel": "trousers",
+              "menuLabel": "Headsets",
               "menuLink": "/shop"
             }
           ]
